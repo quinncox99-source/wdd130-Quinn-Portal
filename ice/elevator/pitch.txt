@@ -1,0 +1,15 @@
+Pitch: “EcoSwap – The Sustainable Exchange Hub”
+
+EcoSwap is a website designed to help people swap, donate, or sell gently used items locally to reduce waste and promote sustainable living. Instead of throwing things away, users can list items—from clothes and books to electronics and furniture—and connect with others in their community who need them.
+
+The site will include:
+
+User profiles and location-based item listings
+
+Categories for different product types
+
+A built-in messaging and swap coordination system
+
+Sustainability tips and eco-friendly living resources
+
+What makes EcoSwap unique is its focus on community impact and environmental awareness. Unlike standard resale platforms, EcoSwap highlights the positive ecological effects of each exchange—showing users how much waste and carbon emissions they’ve helped prevent—making sustainability both practical and rewarding. 
